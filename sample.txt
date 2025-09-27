@@ -1,0 +1,15 @@
+Hello, World!
+This is a sample text file for testing the File Reader/Writer application.
+
+The application can read and write files in both text and binary formats.
+- Text mode: Display and edit files as plain text
+- Binary mode: Display files as hexadecimal values and allow hex editing
+
+Features:
+✓ Open and save files
+✓ Switch between text and binary modes  
+✓ Hex viewer with ASCII representation
+✓ Clear content functionality
+✓ Status messages for user feedback
+
+Enjoy using this Java Swing application!
